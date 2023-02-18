@@ -1,0 +1,28 @@
+.text {
+    -unity-font: url('project://database/Assets/Fonts/Montserrat/Thin/MontserratThin-K7B6D.ttf?fileID=12800000&guid=8fa65adbf34616c4799bc178b581626c&type=3#MontserratThin-K7B6D');
+    -unity-font-style: normal;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+}
+
+.background {
+}
+
+.button {
+    background-color: rgb(72, 72, 72);
+    -unity-font: url('project://database/Assets/Fonts/Montserrat/Thin/MontserratThin-K7B6D.ttf?fileID=12800000&guid=8fa65adbf34616c4799bc178b581626c&type=3#MontserratThin-K7B6D');
+    font-size: 100px;
+    color: rgba(255, 255, 255, 255);
+}
+
+.button:hover {
+    background-color: rgb(72, 72, 72);
+    font-size: 110px;
+    -unity-font-style: bold;
+}
+
+.button:active {
+    background-color: rgb(72, 72, 72);
+    font-size: 115px;
+    -unity-font-style: bold;
+}
