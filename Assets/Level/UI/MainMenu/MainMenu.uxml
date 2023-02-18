@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Level/UI/MainMenu/Stylesheets.uss?fileID=7433441132597879392&amp;guid=b5f57a2c3eab2a84d9aee0518bc8ee37&amp;type=3#Stylesheets" />
+    <ui:VisualElement name="Background" style="height: 352px; flex-grow: 1; background-image: url(&apos;project://database/Assets/Art/Textures/WhiteBackground.png?fileID=2800000&amp;guid=91370c460b40c0e43a74954c81115066&amp;type=3#WhiteBackground&apos;); -unity-background-image-tint-color: rgb(56, 56, 56); align-items: center; justify-content: center;">
+        <ui:Label text="Coot&apos;s Bizarre Adventure" display-tooltip-when-elided="true" class="text" style="white-space: nowrap; -unity-text-align: upper-center; position: absolute; top: 15%;" />
+        <ui:Button text="Play" display-tooltip-when-elided="true" name="play-button" class="button" style="border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0;" />
+    </ui:VisualElement>
+</ui:UXML>
