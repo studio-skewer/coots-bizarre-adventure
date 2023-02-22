@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="LSHIFT TO SPEED UP CUTSCENE&#10;SPACE TO SKIP CUTSCENE" display-tooltip-when-elided="true" name="ControlsText" style="white-space: nowrap; -unity-text-align: lower-right; -unity-font-style: bold; -unity-font: url(&apos;project://database/Assets/Art/Textures/Fonts/Teletoon/Teletoon-8w0Z.ttf?fileID=12800000&amp;guid=4e17be6375ef93849a38801897393293&amp;type=3#Teletoon-8w0Z&apos;); font-size: 38px; padding-top: 53%;" />
+</ui:UXML>
